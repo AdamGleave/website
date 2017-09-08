@@ -9,34 +9,10 @@ widget = "about"
 # Order that this section will appear in.
 weight = 1
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an artificial intelligence (AI) PhD student at UC Berkeley, supervised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). My goal is to develop techniques necessary for advanced automated systems to verifiably act according to human preferences, even in situations unanticipated by their designer. I am particularly interested in improving methods for value learning and preference elicitation, such as inverse reinforcement learning. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I work closely with the [Center for Human-Compatible AI](http://humancompatible.ai/), a cross-disciplinary research centre with members from UC Berkeley, Cornell and the University of Michigan. Prior to joining Berkeley, I had the pleasure of working with [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and Christiain Steinruecken in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge during my Master's degree. 

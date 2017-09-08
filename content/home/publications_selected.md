@@ -4,7 +4,7 @@
 # `selected = true` in their `+++` front matter.
 
 date = "2016-04-20T00:00:00"
-draft = false
+draft = true 
 
 title = "Selected Publications"
 subtitle = ""

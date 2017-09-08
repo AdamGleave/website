@@ -2,10 +2,10 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 
-date = "2016-04-20T00:00:00"
+date = "2017-09-07T00:00:00"
 draft = false
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 widget = "publications"
 
@@ -16,7 +16,7 @@ weight = 20
 count = 10
 
 # Show publication details (such as abstract)? (true/false)
-detailed_list = false
+detailed_list = true 
 
 +++
 
