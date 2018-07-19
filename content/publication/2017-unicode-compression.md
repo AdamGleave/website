@@ -10,25 +10,22 @@ publication_short = "Proc. Data Compression Conference"
 math = true
 selected = true
 title = "Making compression algorithms for Unicode text"
+url_code = "https://github.com/AdamGleave/UnicodeCompressor"
 
 [[url_custom]]
 name = "Summary paper"
-url = "papers/DCC2017.pdf"
+url = "papers/2017-unicode-compression.pdf"
 
 [[url_custom]]
 name = "Full paper"
 url = "https://arxiv.org/pdf/1701.04047.pdf"
 
 [[url_custom]]
-name = "Source code"
-url = "https://github.com/AdamGleave/UnicodeCompressor"
-
-[[url_custom]]
 name = "Master's thesis"
-url = "papers/MastersThesis.pdf"
+url = "papers/2016-masters-thesis.pdf"
 
 [[url_custom]]
 name = "BiBTeX"
-url = "papers/DCC2017.bib"
+url = "papers/2017-unicode-compression.bib"
 
 +++

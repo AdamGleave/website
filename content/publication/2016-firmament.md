@@ -5,23 +5,20 @@ authors = ["Ionel Gog", "Malte Schwarzkopf", "Adam Gleave", "Robert Watson", "St
 date = "2016-11-02"
 image_preview = ""
 publication_types = ["1"]
-publication = "Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI ’16)"
+publication = "Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation"
 publication_short = "Proc. Operating Systems Design and Implementation"
 math = true
 selected = true
 title = "Firmament: Fast, Centralized Cluster Scheduling at Scale"
 url_project = "http://firmament.io/"
+url_code = "https://github.com/camsas/firmament"
 
 [[url_custom]]
 name = "Paper"
 url = "https://www.usenix.org/system/files/conference/osdi16/osdi16-gog.pdf"
 
 [[url_custom]]
-name = "Source code"
-url = "https://github.com/camsas/firmament"
-
-[[url_custom]]
 name = "BiBTeX"
-url = "papers/OSDI2016.bib"
+url = "papers/2016-firmament.bib"
 
 +++
