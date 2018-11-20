@@ -6,10 +6,10 @@ date = "2017-03-26"
 image_preview = ""
 publication_types = ["1"]
 publication = "In *Proceedings of the Data Compression Conference*"
-publication_short = "Proc. Data Compression Conference"
+publication_short = "Data Compression Conference"
 math = true
 selected = true
-title = "Making compression algorithms for Unicode text"
+title = "Making Compression Algorithms for Unicode Text"
 url_code = "https://github.com/AdamGleave/UnicodeCompressor"
 
 [[url_custom]]
