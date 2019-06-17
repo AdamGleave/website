@@ -8,7 +8,7 @@ publication_types = ["1"]
 publication = "In *Proceedings of the Data Compression Conference*"
 publication_short = "Data Compression Conference"
 math = true
-selected = true
+selected = false 
 title = "Making Compression Algorithms for Unicode Text"
 url_code = "https://github.com/AdamGleave/UnicodeCompressor"
 
