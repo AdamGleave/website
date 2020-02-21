@@ -17,7 +17,7 @@ url_code = "https://github.com/HumanCompatibleAI/adversarial-policies"
 url_dataset = ""
 url_project = "https://adversarialpolicies.github.io"
 url_slides = "https://docs.google.com/presentation/d/1FgnomI1_iKMrOFZA3DGSKtvdJS-aCBhSN6rgz7TKERs/edit?usp=sharing"
-url_video = "https://slideslive.com/38922027/deep-reinforcement-learning-3"
+url_video = "https://slideslive.com/38922702/contributed-talk-adversarial-policies-attacking-deep-reinforcement-learning"
 
 [[url_custom]]
 name = "Paper"
