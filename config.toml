@@ -132,6 +132,11 @@ defaultContentLanguageInSubdir = false
     link = "mailto:adam@gleave.me"
 
   [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/ARGleave"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/AdamGleave"
