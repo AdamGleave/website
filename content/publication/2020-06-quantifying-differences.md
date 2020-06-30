@@ -1,0 +1,30 @@
++++
+title = "Quantifying Differences in Reward Functions"
+date = "2020-06-24"
+authors = ["Adam Gleave", "Michael Dennis", "Shane Legg", "Stuart Russell", "Jan Leike"]
+publication_types = ["4"]
+# Publication name and optional abbreviated version.
+publication = "arXiv"
+
+# Abstract and optional shortened version.
+abstract = "For many tasks, the reward function is too complex to be specified procedurally, and must instead be learned from user data. Prior work has evaluated learned reward functions by examining rollouts from a policy optimized for the learned reward. However, this method cannot distinguish between the learned reward function failing to reflect user preferences, and the reinforcement learning algorithm failing to optimize the learned reward. Moreover, the rollout method is highly sensitive to details of the environment the learned reward is evaluated in, which often differ in the deployment environment. To address these problems, we introduce the Equivalent-Policy Invariant Comparison (EPIC) distance to quantify the difference between two reward functions directly, without training a policy. We prove EPIC is invariant on an equivalence class of reward functions that always induce the same optimal policy. Furthermore, we find EPIC can be precisely approximated and is more robust than baselines to the choice of visitation distribution. Finally, we find that the EPIC distance of learned reward functions to the ground-truth reward is predictive of the success of training a policy, even in different transition dynamics. Our source code is available at https://github.com/HumanCompatibleAI/evaluating-rewards/."
+abstract_short = " "
+math = false
+highlight = false 
+image_preview = ""
+selected = false 
+url_code = "https://github.com/HumanCompatibleAI/evaluating-rewards/"
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+
+[[url_custom]]
+name = "Paper"
+url = "https://arxiv.org/abs/2006.13900"
+
+[[url_custom]]
+name = "BiBTeX"
+url = "/papers/2020-quantifying-differences.bib"
+
++++
