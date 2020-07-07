@@ -26,7 +26,7 @@ publication_types: ["1"]
 selected: false
 title: Inverse Reinforcement Learning for Video Games
 url_code: https://github.com/HumanCompatibleAI/atari-irl/
-url_pdf: "https://arxiv.org/abs/1810.10593"
+url_pdf: "https://arxiv.org/pdf/1810.10593.pdf"
 url_dataset: ""
 url_project: ""
 url_slides: ""

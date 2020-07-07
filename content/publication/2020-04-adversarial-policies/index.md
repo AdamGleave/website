@@ -25,7 +25,7 @@ publication_types: ['1']
 selected: false
 title: 'Adversarial Policies: Attacking Deep Reinforcement Learning'
 url_code: https://github.com/HumanCompatibleAI/adversarial-policies
-url_pdf: https://arxiv.org/abs/1905.10615
+url_pdf: https://arxiv.org/pdf/1905.10615.pdf
 links:
   - name: OpenReview
     url: https://openreview.net/forum?id=HJgEMpVFwB

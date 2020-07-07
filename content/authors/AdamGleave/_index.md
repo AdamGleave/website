@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: UC Berkeley
-    year: 2017-current
+    year: In Progress
   - course: MPhil in Advanced Computer Science
     institution: University of Cambridge
     year: 2016
