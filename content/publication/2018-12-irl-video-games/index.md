@@ -15,7 +15,7 @@ abstract: Deep reinforcement learning achieves superhuman performance in a range
   outperforming the CNN-AIRL baseline. We also score points on the Enduro Atari racing
   game, but do not match expert performance, highlighting the need for further work.
 abstract_short: " "
-authors: [Aaron Tucker, AdamGleave, Stuart Russell]
+authors: [AaronTucker, AdamGleave, StuartRussell]
 date: "2018-11-20"
 highlight: false
 image_preview: ""

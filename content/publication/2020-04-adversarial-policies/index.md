@@ -13,8 +13,7 @@ abstract: 'Deep reinforcement learning (RL) policies are known to be vulnerable 
   activations in the victim policy network than when the victim plays against a normal
   opponent. Videos are available at https://adversarialpolicies.github.io/.'
 abstract_short: ' '
-authors: [Adam Gleave, Michael Dennis, Cody Wild, Neel Kant, Sergey Levine, Stuart
-    Russell]
+authors: [AdamGleave, MichaelDennis, CodyWild, NeelKant, SergeyLevine, StuartRussell]
 date: '2020-02-10'
 highlight: false
 image_preview: ''

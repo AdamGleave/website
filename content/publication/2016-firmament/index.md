@@ -15,7 +15,7 @@ abstract: Centralized datacenter schedulers can make high-quality placement deci
   and distributed schedulers on a real-world cluster, and hence improves batch task
   response time by 6×.
 abstract_short: " "
-authors: [Ionel Gog, Malte Schwarzkopf, AdamGleave, Robert Watson, Steven Hand]
+authors: [IonelGog, MalteSchwarzkopf, AdamGleave, RobertWatson, StevenHand]
 date: "2016-11-02"
 image_preview: ""
 publication: Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation

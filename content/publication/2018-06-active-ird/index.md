@@ -21,7 +21,7 @@ abstract: "Reward design, the problem of selecting an appropriate reward functio
   of available reward functions is a promising direction to improve the efficiency
   and effectiveness of reward design."
 abstract_short: " "
-authors: [Sören Mindermann, Rohin Shah, AdamGleave, Dylan Hadfield-Menell]
+authors: [SorenMindermann, RohinShah, AdamGleave, DylanHadfieldMenell]
 date: "2018-07-14"
 highlight: false
 image_preview: ""

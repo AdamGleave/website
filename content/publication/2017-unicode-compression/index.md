@@ -8,7 +8,7 @@ abstract: The majority of online content is written in languages other than Engl
   demonstrate this technique applied to LZW and PPM, finding our variant substantially
   outperforms the original unmodified compressors.
 abstract_short: " "
-authors: [AdamGleave, Christian Steinruecken]
+authors: [AdamGleave, ChristianSteinruecken]
 date: "2017-03-26"
 image_preview: ""
 math: true

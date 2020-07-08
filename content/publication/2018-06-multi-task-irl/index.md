@@ -11,7 +11,7 @@ abstract: Multi-task Inverse Reinforcement Learning (IRL) is the problem of infe
   robotics benchmarks, we discover serious limitations of these IRL algorithms, and
   conclude with suggestions for further work
 abstract_short: ' '
-authors: [AdamGleave, Oliver Habryka]
+authors: [AdamGleave, OliverHabryka]
 date: '2018-07-15'
 highlight: false
 image_preview: ''

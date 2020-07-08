@@ -16,7 +16,7 @@ abstract: For many tasks, the reward function is too complex to be specified pro
   the success of training a policy, even in different transition dynamics. Our source
   code is available at https://github.com/HumanCompatibleAI/evaluating-rewards/.
 abstract_short: ' '
-authors: [Adam Gleave, Michael Dennis, Shane Legg, Stuart Russell, Jan Leike]
+authors: [AdamGleave, MichaelDennis, ShaneLegg, StuartRussell, JanLeike]
 date: '2020-06-24'
 highlight: false
 image_preview: ''
