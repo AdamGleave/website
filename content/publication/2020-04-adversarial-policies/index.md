@@ -30,6 +30,8 @@ links:
     url: https://openreview.net/forum?id=HJgEMpVFwB
   - name: Poster
     url: https://docs.google.com/presentation/d/1mGhe9M2LFaT0PF2VEvIxLp_TOSHX_qSULcauHxZj5Hc/edit
+  - name: Blog
+    url: https://bair.berkeley.edu/blog/2020/03/27/attacks/
 url_dataset: ''
 url_project: https://adversarialpolicies.github.io
 url_slides: https://docs.google.com/presentation/d/1FgnomI1_iKMrOFZA3DGSKtvdJS-aCBhSN6rgz7TKERs/edit?usp=sharing
