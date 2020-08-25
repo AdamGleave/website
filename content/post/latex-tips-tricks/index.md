@@ -17,9 +17,9 @@ Once mastered, LaTeX can be more flexible and efficient than alternatives, howev
 There exist [many](https://en.wikibooks.org/wiki/LaTeX/Introduction) [excellent](https://en.wikibooks.org/wiki/LaTeX/Introduction) [introductions](https://www.andy-roberts.net/writing/latex) to LaTeX.
 However, I've found that even experienced LaTeX users often fall prey to many gotchas, or fail to exploit some powerful aspects of the language.
 
-This document aims to collect together *[design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)* in LaTeX that enable efficient and clear writing, and warn of *antipatterns* which interfere with this goal.
+This document aims to collect together *[design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)* in LaTeX that enable efficient and clear writing, and warn of *anti-patterns* which interfere with this goal.
 Take these patterns as suggestions, not strict rules.
-What may be a pattern in one document can be an antipattern in another: for example, defining macros for notation may be beneficial in a PhD thesis, but is likely overkill for an extended abstract.
+What may be a pattern in one document can be an anti-pattern in another: for example, defining macros for notation may be beneficial in a PhD thesis, but is likely overkill for an extended abstract.
 Furthermore, while I anticipate these suggestions to be applicable to many LaTeX users, most of my experience has been in preparing papers for machine learning and computer science.
 When in doubt, defer to the publication norms of the field you operate in.
 
@@ -59,7 +59,7 @@ LaTeX has excellent support for typesetting mathematical formulas, and so is wid
 
 LaTeX encourages writers to specify the *structure* of the document, and leave formatting details to LaTeX. This usually works well, however there are some common problems that can mislead LaTeX into producing the wrong output.
 
-**[Be Semantic](https://tex.stackexchange.com/questions/1980/emph-or-textit)**: If you want to emphasize some text, use `\emph{}`. Do *not* use `\textit{}`. Though they may seem to produce the same effect of italicized text, `\emph{}` will automatically switch between italic and Roman: for example, `\emph{emphasis \emph{nested} works}'` produces "*emphasis* nested *works*" whereas `\textit{italics \textit{is} idempotent}` produces "*italices is idempotent*". This behaviour of `\emph{}` is useful since environments (such as `\begin{theorem}`) may italicize blocks of text, in which case Roman text stands out from the italic surroundings.
+**[Be Semantic](https://tex.stackexchange.com/questions/1980/emph-or-textit)**: If you want to emphasize some text, use `\emph{}`. Do *not* use `\textit{}`. Though they may seem to produce the same effect of italicized text, `\emph{}` will automatically switch between italic and Roman: for example, `\emph{emphasis \emph{nested} works}'` produces "*emphasis* nested *works*" whereas `\textit{italics \textit{is} idempotent}` produces "*italics is idempotent*". This behaviour of `\emph{}` is useful since environments (such as `\begin{theorem}`) may italicize blocks of text, in which case Roman text stands out from the italic surroundings.
 
 **[Spacing after abbreviation periods](https://tex.stackexchange.com/questions/2229/is-a-period-after-an-abbreviation-the-same-as-an-end-of-sentence-period)**: LaTeX adds extra space between sentences. This improves readability, but LaTeX can misinterpret periods in abbreviations as being the end of a sentence: for example, in `e.g. this` LaTeX will insert a sentence space after `e.g.`. To avoid this problem, use `\ ` to instruct LaTeX to use a regular space: `e.g.\ this`. More rarely, LaTeX may incorrectly believe a period [does not end a sentence](https://tex.stackexchange.com/questions/22561/what-is-the-proper-use-of-i-e-backslash-at), for example after a capital letter: in this case, you can force it using `\@` as in `LaTeX was invented in the US\@.`
 
