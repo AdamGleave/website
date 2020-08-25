@@ -15,7 +15,7 @@ author = "AdamGleave"
 Some of my opinions are best expressed in formats other than an academic paper.
 Here are a few of my more notable interviews and essays:
 
-[Writing Beautifully in LaTeX](/post/latex-tips-tricks/) (August 2020).
+[Writing Beautifully in LaTeX](/post/latex-design-patterns/) (August 2020).
 Design patterns for composing LaTeX documents.
  
 [Careers in Beneficial AI Research](https://docs.google.com/document/d/1RFo7_9JVmt0z8RPwUjB-mUMgCMoUQmsaj2CM5aHvxCw/edit) (July 2020).
