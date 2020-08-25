@@ -4,8 +4,8 @@ subtitle: 'Design Patterns for Composing LaTeX Documents'
 summary: LaTeX is the typesetting system of choice in most STEM fields. Yet even experienced LaTeX users often fall prey to many gotchas, or fail to exploit some powerful aspects of the language. In this document, I collect together *design patterns* to help efficiently produce clear LaTeX documents.
 authors:
 - AdamGleave
-date: "2020-08-06"
-lastmod: "2020-08-06"
+date: "2020-08-24"
+lastmod: "2020-08-24"
 featured: false
 draft: false
 projects: []
