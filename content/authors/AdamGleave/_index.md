@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: CV.pdf
+  link: /cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "adam@gleave.me"
@@ -72,4 +72,4 @@ user_groups:
 
 I am an artificial intelligence (AI) PhD candidate at UC Berkeley, advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). My goal is to develop techniques necessary for advanced automated systems to verifiably act according to human preferences, even in situations unanticipated by their designer. I am particularly interested in improving methods for value learning, and robustness of deep RL.
 
-I work closely with the [Center for Human-Compatible AI](http://humancompatible.ai/), a cross-disciplinary research centre. Prior to joining Berkeley, I had the pleasure of working with [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Christian Steinruecken](https://q4.github.io/) during my Master's degree in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge. Please see my [CV](CV.pdf) for a more comprehensive list of my prior experience.
+I work closely with the [Center for Human-Compatible AI](http://humancompatible.ai/), a cross-disciplinary research centre. Prior to joining Berkeley, I had the pleasure of working with [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Christian Steinruecken](https://q4.github.io/) during my Master's degree in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge. Please see my [CV](/cv.pdf) for a more comprehensive list of my prior experience.
