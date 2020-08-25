@@ -1,10 +1,13 @@
 orbs:
   hugo: circleci/hugo@0.6.0
 version: 2.1
+
+hugo/html-proofer:
+  url-ignore: "/#.*/,/^mailto:\\?subject=/"
+
 workflows:
   main:
     jobs:
       - hugo/build:
           html-proofer: true
           version: '0.72'
-          url-ignore: "/#.*/,/^mailto:\\?subject=/"
