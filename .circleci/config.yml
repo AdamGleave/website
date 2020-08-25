@@ -30,7 +30,7 @@ jobs:
           source: "."
       - hugo/html-proofer:
           path: "public"
-          url-ignore: "/#.*/,/^mailto:\\?subject=/"
+          url-ignore: "'/#.*/,/^mailto:\\?subject=/'"
 
 workflows:
   main:
