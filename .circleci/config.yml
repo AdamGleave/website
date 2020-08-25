@@ -1,0 +1,11 @@
+# Based on https://jekyllrb.com/docs/continuous-integration/circleci/
+
+orbs:
+  hugo: circleci/hugo@0.1
+version: 2.1
+workflows:
+  main:
+    jobs:
+      - hugo/build:
+          html-proofer: true
+          version: '0.72'
