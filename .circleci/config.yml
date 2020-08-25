@@ -5,26 +5,34 @@ version: 2.1
 hugo/html-proofer:
   url-ignore: "/#.*/,/^mailto:\\?subject=/"
 
+executors:
+  cibuilds:
+    docker:
+      - image: cibuilds/hugo:0.72
+
+jobs:
+  # Taken from https://circleci.com/orbs/registry/orb/circleci/hugo
+  # Would like to use hugo/build job, but I want to pass custom parameters
+  # to HTMLProofer, which I cannot see how to do if I invoke job directly.
+  buildandtest:
+    executor: cibuilds
+    steps:
+      - checkout
+      - run:
+          command: |
+            if [ -f ".gitmodules" ]; then
+              git submodule sync
+              git submodule update --init --recursive
+            fi
+          name: Checkout Submodules if Needed
+      - hugo/hugo-build:
+          destination: public
+          source: "."
+      - hugo/html-proofer:
+          path: "public"
+          url-ignore: "/#.*/,/^mailto:\\?subject=/"
+
 workflows:
   main:
     jobs:
-      - build:
-          # Taken from https://circleci.com/orbs/registry/orb/circleci/hugo
-          # Would like to use hugo/build job, but I want to pass custom parameters
-          # to HTMLProofer, which I cannot see how to do if I invoke job directly.
-          steps:
-            - checkout
-            - run:
-                command: |
-                  if [ -f ".gitmodules" ]; then
-                    git submodule sync
-                    git submodule update --init --recursive
-                  fi
-                name: Checkout Submodules if Needed
-            - hugo-build:
-                destination: public
-                version: "0.72"
-                source: "."
-            - html-proofer:
-                path: "public"
-                url-ignore: "/#.*/,/^mailto:\\?subject=/"
+      - buildandtest
