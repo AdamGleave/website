@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Rohin Shah
+name: Sam Toyer
 
 # Username (this should match the folder name)
 authors:
-- RohinShah
+- SamToyer
 
-external_link: https://rohinshah.com/
+external_link: https://www.qxcv.net/
 ---

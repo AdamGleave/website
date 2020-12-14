@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Rohin Shah
+name: Eric J. Michaud
 
 # Username (this should match the folder name)
 authors:
-- RohinShah
+- Eric Michaud
 
-external_link: https://rohinshah.com/
+external_link: https://ericjmichaud.com/
 ---
