@@ -24,3 +24,15 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/epicblog"
+  to = "/publication/2020-06-quantifying-differences/"
+
+[[redirects]]
+  from = "/epicpaper"
+  to = "https://arxiv.org/pdf/2006.13900.pdf"
+
+[[redirects]]
+  from = "/epicsrc"
+  to = "https://github.com/HumanCompatibleAI/evaluating-rewards"
