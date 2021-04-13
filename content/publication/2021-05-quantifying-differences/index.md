@@ -6,7 +6,7 @@ date: '2021-04-03'
 highlight: true
 image_preview: ''
 math: false
-publication: ICLR
+publication: ICLR (**Spotlight Paper**)
 publication_types: ['4']
 selected: false
 title: Quantifying Differences in Reward Functions

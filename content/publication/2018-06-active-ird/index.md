@@ -28,7 +28,7 @@ image_preview: ""
 math: false
 publication: Workshop on Goal Specifications for Reinforcement Learning at Federated
   Artificial Intelligence Meeting
-publication_short: GoalsRL Workshop at FAIM
+publication_short: GoalsRL Workshop at ICML
 publication_types: ["1"]
 selected: false
 title: Active Inverse Reward Design
