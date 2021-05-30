@@ -12,9 +12,14 @@ selected: false
 title: Quantifying Differences in Reward Functions
 url_code: https://github.com/HumanCompatibleAI/evaluating-rewards/
 url_pdf: https://arxiv.org/pdf/2006.13900.pdf
+links:
+  - name: OpenReview
+    url: https://openreview.net/forum?id=LwEQnp6CYev
+  - name: Blog
+    url: https://bair.berkeley.edu/blog/2021/04/20/epic/
 url_dataset: ''
 url_project: ''
-url_slides: ''
-url_video: ''
+url_slides: 'https://iclr.cc/media/Slides/iclr/2021/virtual(04-16-00)-04-16-00UTC-3348-quantifying_dif.pdf'
+url_video: 'https://slideslive.com/38953511'
 ---
 
