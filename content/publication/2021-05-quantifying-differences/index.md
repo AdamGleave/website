@@ -7,7 +7,7 @@ highlight: true
 image_preview: ''
 math: false
 publication: ICLR (**Spotlight Paper**)
-publication_types: ['4']
+publication_types: ['1']
 selected: false
 title: Quantifying Differences in Reward Functions
 url_code: https://github.com/HumanCompatibleAI/evaluating-rewards/
