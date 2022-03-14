@@ -43,7 +43,7 @@ footer:
   copyright:
     notice: '© {year} Adam Gleave'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
