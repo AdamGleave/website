@@ -1,10 +1,6 @@
 ---
 # Display name
-name: Adam Gleave
-
-# Username (this should match the folder name)
-authors:
-- AdamGleave
+title: Adam Gleave
 
 # Is this the primary user of the site?
 superuser: true
@@ -62,6 +58,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "adam@gleave.me"
+
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
