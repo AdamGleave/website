@@ -15,6 +15,10 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+[context.branch-deploy.processing.css]
+  # work around bug: https://answers.netlify.com/t/bug-bundle-css-option-produces-invalid-markup-when-link-attributes-contain-quotes/49680
+  bundle = false
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
