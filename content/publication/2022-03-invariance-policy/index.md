@@ -10,7 +10,7 @@ publication: arXiv
 publication_types: ['3']
 selected: false
 title: Invariance in Policy Optimisation and Partial Identifiability in Reward Learning
-url_pdf: https://openreview.net/pdf?id=eqRTPB134q0
+url_pdf: https://arxiv.org/pdf/2203.07475.pdf
 url_dataset: ''
 url_project: ''
 url_slides: '' 
