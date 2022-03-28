@@ -10,8 +10,8 @@ publication: Cooperative AI Workshop at NeurIPS
 publication_types: ['1']
 selected: false
 title: Preprocessing Reward Functions for Interpretability 
-# url_code: https://github.com/HumanCompatibleAI/reward-preprocessing
-url_pdf: https://drive.google.com/file/d/1vYMWJPE6QGE9iG2m1wEG3mmIu5__tLoP/view
+url_code: https://github.com/HumanCompatibleAI/reward-preprocessing
+url_pdf: https://arxiv.org/pdf/2203.13553.pdf
 url_dataset: ''
 url_project: ''
 url_slides: '' 
