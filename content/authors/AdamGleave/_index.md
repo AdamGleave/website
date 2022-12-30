@@ -6,12 +6,12 @@ title: Adam Gleave
 superuser: true
 
 # Role/position
-role: PhD Candidate in Artificial Intelligence
+role: CEO at FAR AI
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley
-  url: "https://bair.berkeley.edu/"
+- name: FAR AI
+  url: "https://far.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include value learning and robustness of deep RL.
@@ -67,7 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I am a final-year artificial intelligence (AI) PhD candidate at UC Berkeley, advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and part of the [Center for Human-Compatible AI](http://humancompatible.ai/). My focus is on out-of-distribution robustness for deep RL, with a particular emphasis on value learning and multi-agent adversarial robustness. I am a board member for the non-profit [Fund for Alignment Research](https://alignmentfund.org/), and an advisor to [Aligned AI](https://buildaligned.ai/).
-
-I have had the pleasure of collaborating with [Jan Leike](https://jan.leike.name/) and [Geoffrey Irving](https://naml.us/) during internships at DeepMind. Prior to joining Berkeley, I was fortunate to work with [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Christian Steinruecken](https://q4.github.io/) during my Master's degree in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the University of Cambridge. Please see my [CV](/cv.pdf) for a more comprehensive list of my prior experience.
+I am the CEO and co-founder of [FAR AI](https://far.ai), an alignment research non-profit working to incubate and accelerate new alignment research agendas. I received my PhD from UC Berkeley under the supervision of [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). I was fortunate to be part of the [Center for Human-Compatible AI](http://humancompatible.ai/) during my PhD and funded by an Open Philanthropy Fellowship. Previously, I've spent time at DeepMind working with [Jan Leike](https://jan.leike.name/) and [Geoffrey Irving](https://naml.us/), and Cambridge working with [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Christian Steinruecken](https://q4.github.io/). Please see my [CV](/cv.pdf) for a more comprehensive list of my prior experience.
