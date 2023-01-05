@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Adam Gleave is a PhD candidate at UC Berkeley, advised by Stuart Russell. He is particularly interested in improving methods for value learning, and robustness of deep RL.'
+    description: 'Adam Gleave is the CEO of FAR AI, an alignment research non-profit. His research interests include adversarial robustness and value learning.'
     twitter: 'ARGleave'
   analytics:
     google_analytics: 'G-REQ5MDBNF9'
