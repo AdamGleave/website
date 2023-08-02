@@ -6,8 +6,9 @@ date: '2022-03-13'
 highlight: false
 image_preview: ''
 math: false
-publication: arXiv 
-publication_types: ['3']
+publication: International Conference on Machine Learning
+publication_short: ICML
+publication_types: ['1']
 selected: false
 title: Invariance in Policy Optimisation and Partial Identifiability in Reward Learning
 url_pdf: https://arxiv.org/pdf/2203.07475.pdf
