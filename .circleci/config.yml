@@ -5,7 +5,7 @@ version: 2.1
 executors:
   cibuilds:
     docker:
-      - image: cibuilds/hugo:0.91.2
+      - image: cibuilds/hugo:0.101.0
 
 jobs:
   # Taken from https://circleci.com/orbs/registry/orb/circleci/hugo
