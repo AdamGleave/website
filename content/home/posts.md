@@ -15,6 +15,8 @@ author = "AdamGleave"
 Some of my opinions are best expressed in formats other than an academic paper.
 Here are a few of my more notable interviews and essays:
 
+[More people getting into AI safety should do a PhD](/post/why-do-phd/) (March 2024).
+
 [Writing Beautifully in LaTeX](/post/latex-design-patterns/) (August 2020).
 Design patterns for composing LaTeX documents.
  

@@ -6,7 +6,7 @@ title: Adam Gleave
 superuser: true
 
 # Role/position
-role: CEO at FAR AI
+role: Founder & CEO at FAR AI
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://far.ai/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include value learning and robustness of deep RL.
+bio: "Founder of [FAR AI](https://far.ai), an alignment research non-profit working to incubate and accelerate new alignment research agendas. Previously: PhD @ UC Berkeley; Google DeepMind. Research interests include adversarial robustness and interpretability."
 
 interests:
 - Artificial Intelligence
