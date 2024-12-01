@@ -6,15 +6,15 @@ title: Adam Gleave
 superuser: true
 
 # Role/position
-role: Founder & CEO at FAR AI
+role: Founder & CEO at FAR.AI
 
 # Organizations/Affiliations
 organizations:
-- name: FAR AI
+- name: FAR.AI
   url: "https://far.ai/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Founder of [FAR AI](https://far.ai), an alignment research non-profit working to incubate and accelerate new alignment research agendas. Previously: PhD @ UC Berkeley; Google DeepMind. Research interests include adversarial robustness and interpretability."
+bio: "Founder of [FAR.AI](https://far.ai), an alignment research non-profit working to incubate and accelerate new alignment research agendas. Previously: PhD @ UC Berkeley; Google DeepMind. Research interests include adversarial robustness and interpretability."
 
 interests:
 - Artificial Intelligence
@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am the CEO and co-founder of [FAR AI](https://far.ai), an alignment research non-profit working to incubate and accelerate new alignment research agendas. I received my PhD from UC Berkeley under the supervision of [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). I was fortunate to be part of the [Center for Human-Compatible AI](http://humancompatible.ai/) during my PhD and funded by an Open Philanthropy Fellowship. Previously, I've spent time at DeepMind working with [Jan Leike](https://jan.leike.name/) and [Geoffrey Irving](https://naml.us/), and Cambridge working with [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Christian Steinruecken](https://q4.github.io/). Please see my [CV](/cv.pdf) for a more comprehensive list of my prior experience.
+I am the CEO and co-founder of [FAR.AI](https://far.ai), an AI safety research institute working to ensure advanced AI is safe and beneficial to humanity. Outside of FAR.AI, I am a board member of the [Safe AI Forum](https://saif.org/), the [London Initiative for Safe AI](https://www.safeai.org.uk/) and [METR](https://metr.org/). Prior to founding FAR.AI, I received my PhD from UC Berkeley under the supervision of [Stuart Russell](https://people.eecs.berkeley.edu/~russell/), and previously worked at Google DeepMind with [Jan Leike](https://jan.leike.name/) and [Geoffrey Irving](https://naml.us/). Please see my [CV](/cv.pdf) for a more comprehensive list of my prior experience.
