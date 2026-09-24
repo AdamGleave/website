@@ -13,7 +13,7 @@ I am **not** arguing that **most** people contributing to AI safety should do 
 
 However, career paths are highly individual and involve myriad trade-offs. Doing a PhD may or may not be the right path for any individual person: I simply think it has a better track record than most alternatives, and so should be the default for most people. In the post I’ll also consider counter-arguments to a PhD, as well as reasons why particular people might be better fits for alternative options. I also discuss how to make the most of a PhD if you do decide to pursue this route.
 
-**Author Contributions**: This post primarily reflects the opinion of Adam Gleave so is written using an “I” personal pronoun. [Alejandro Ortega](https://www.linkedin.com/in/alejandro-o-b91b9b16a/) and [Sean McGowan](https://www.linkedin.com/in/sean-mcgowan-9a6b71167/) made substantial contributions writing the initial draft of the post based on informal conversations with Adam. This resulting draft was then lightly edited by Adam, including feedback & suggestions from [Euan McLean](https://far.ai/author/euan-mclean/) and [Siao Si Looi](https://far.ai/author/siao-si-looi/).
+**Author Contributions**: This post primarily reflects the opinion of Adam Gleave so is written using an “I” personal pronoun. [Sean McGowan](https://www.linkedin.com/in/sean-mcgowan-9a6b71167/) made substantial contributions writing the initial draft of the post based on informal conversations with Adam. This resulting draft was then lightly edited by Adam, including feedback & suggestions from [Euan McLean](https://far.ai/author/euan-mclean/) and [Siao Si Looi](https://far.ai/author/siao-si-looi/).
 
 Why be a research lead?
 =======================
