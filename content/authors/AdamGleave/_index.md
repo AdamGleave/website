@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adam@gleave.me'
+  link: 'mailto:adam@far.ai'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ARGleave
@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am the CEO and co-founder of [FAR.AI](https://far.ai), an AI safety research institute working to ensure advanced AI is safe and beneficial to humanity. Outside of FAR.AI, I am a board member of the [Safe AI Forum](https://saif.org/), the [London Initiative for Safe AI](https://www.safeai.org.uk/) and [METR](https://metr.org/). Prior to founding FAR.AI, I received my PhD from UC Berkeley under the supervision of [Stuart Russell](https://people.eecs.berkeley.edu/~russell/), and previously worked at Google DeepMind with [Jan Leike](https://jan.leike.name/) and [Geoffrey Irving](https://naml.us/). Please see my [CV](/cv.pdf) for a more comprehensive list of my prior experience.
+I am the CEO and co-founder of [FAR.AI](https://far.ai), an AI safety research institute working to ensure advanced AI is safe and beneficial to humanity. Outside of FAR.AI, I am a board member of the [Safe AI Forum](https://saif.org/), the [London Initiative for Safe AI](https://www.safeai.org.uk/) and [METR](https://metr.org/). Prior to founding FAR.AI, I received my PhD from UC Berkeley under the supervision of [Stuart Russell](https://people.eecs.berkeley.edu/~russell/), and previously worked at Google DeepMind with [Jan Leike](https://jan.leike.name/) and [Geoffrey Irving](https://naml.us/). Please see my [CV](/cv.pdf) for a more comprehensive list of my prior experience. You can contact me at [adam@far.ai](mailto:adam@far.ai); for press enquiries, please contact [media@far.ai](mailto:media@far.ai).
